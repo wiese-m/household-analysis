@@ -1,4 +1,4 @@
-# Analiza Gospodarstw
+# Analiza Gospodarstw Domowych
 
 Projekt wykonany w R.
 
